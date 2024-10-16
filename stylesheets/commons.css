@@ -749,7 +749,7 @@ img.paralelas-distintas_2 {
 
 
 
-/* @media (max-width: 1200px){
+@media (max-width: 1200px){
   .container-paginas{
     display: none;
   }
@@ -763,4 +763,4 @@ img.paralelas-distintas_2 {
   .d-lg-none{
     display: none !important;
   }
-} */
+}
