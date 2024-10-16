@@ -743,6 +743,24 @@ img.paralelas-distintas_2 {
   margin-top: -50px!important;
   margin-bottom: -50px!important;
 }
-.imagem {
+/* .imagem {
   background-color: red;
+} */
+
+
+
+@media (max-width: 1200px){
+  .container-paginas{
+    display: none;
+  }
+
+  .d-lg-none{
+    display: flex !important;
+  }
+}
+
+@media (min-width: 1200px){
+  .d-lg-none{
+    display: none !important;
+  }
 }
